@@ -11,6 +11,7 @@ DB_NAME=absensi_db
 DB_USER=root
 DB_PASS=
 DB_CHARSET=utf8mb4
+ALLOWED_ORIGIN=http://localhost:3000
 ```
 
 File `.env` sudah ditambahkan ke `.gitignore` dan tidak boleh dikomit ke repository.
